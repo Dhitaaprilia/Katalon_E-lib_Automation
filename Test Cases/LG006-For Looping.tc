@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>For Looping</description>
+   <name>LG006-For Looping</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>56a6cec9-0968-4434-98cf-cabc9fa6c9fe</testCaseGuid>
+</TestCaseEntity>
