@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search using numeric input</description>
+   <name>SC013</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>35c21c04-67ef-4c19-8637-ef24e33cda7c</testCaseGuid>
+</TestCaseEntity>

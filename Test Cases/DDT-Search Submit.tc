@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDT-Search Submit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a0e6ef1b-c5a3-4297-a227-8fce8295517b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>24497412-7778-4e68-97c3-319435adac26</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>24497412-7778-4e68-97c3-319435adac26</id>
+      <masked>false</masked>
+      <name>SearchInput</name>
+   </variable>
+</TestCaseEntity>

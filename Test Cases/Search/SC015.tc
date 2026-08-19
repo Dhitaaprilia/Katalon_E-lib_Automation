@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Perform search using the enter key</description>
+   <name>SC015</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5f6d1c94-0ed1-4897-b21e-1118ef5c4b42</testCaseGuid>
+</TestCaseEntity>

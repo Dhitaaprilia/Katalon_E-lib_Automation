@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search using mixed-case characters</description>
+   <name>SC008</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dfcb3941-a5ef-4f62-9d23-3ba2410e81f4</testCaseGuid>
+</TestCaseEntity>

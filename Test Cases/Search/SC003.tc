@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search for a book by author name</description>
+   <name>SC003</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f5a9750e-bb89-482a-bb4f-58691724833f</testCaseGuid>
+</TestCaseEntity>

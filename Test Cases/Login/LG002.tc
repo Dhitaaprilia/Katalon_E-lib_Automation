@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Invalid Credentials</description>
+   <name>LG002</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8cb0c14c-1e83-4735-91be-1bf9dce3e295</testCaseGuid>
+</TestCaseEntity>

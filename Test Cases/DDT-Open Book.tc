@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDT-Open Book</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eb81fd34-51e3-43c9-beb9-f539d64344d1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>da04c3d7-c3f5-4963-be71-a76113e59dd1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>da04c3d7-c3f5-4963-be71-a76113e59dd1</id>
+      <masked>false</masked>
+      <name>SearchInput</name>
+   </variable>
+</TestCaseEntity>

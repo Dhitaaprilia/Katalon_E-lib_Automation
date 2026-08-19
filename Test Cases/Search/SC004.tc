@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search with a valid keyword that has no matching results</description>
+   <name>SC004</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>39f456ef-1a2b-4481-a8e0-c2960d615d50</testCaseGuid>
+</TestCaseEntity>

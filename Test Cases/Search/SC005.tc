@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search with an empty input</description>
+   <name>SC005</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a9574d60-9417-43b2-9672-8714aaf37d6f</testCaseGuid>
+</TestCaseEntity>

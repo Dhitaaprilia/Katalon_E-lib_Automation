@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search using special characters</description>
+   <name>SC012</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>66265cb0-55fa-4167-b251-8fd055a8f986</testCaseGuid>
+</TestCaseEntity>

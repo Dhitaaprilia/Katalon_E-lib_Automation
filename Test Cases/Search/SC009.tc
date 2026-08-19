@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search with leading spaces</description>
+   <name>SC009</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f929a03e-1d7c-4a20-b98c-ab781c4ba7aa</testCaseGuid>
+</TestCaseEntity>

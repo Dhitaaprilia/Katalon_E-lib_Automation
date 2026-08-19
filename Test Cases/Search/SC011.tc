@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search using multiple keywords</description>
+   <name>SC011</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>378431e7-ea28-42a1-bd02-1aa537fc472b</testCaseGuid>
+</TestCaseEntity>

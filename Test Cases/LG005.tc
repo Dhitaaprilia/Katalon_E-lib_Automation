@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Scriptless Test</description>
+   <name>LG005</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c996c856-c753-4f3f-b5a7-e6da0df39fb5</testCaseGuid>
+</TestCaseEntity>

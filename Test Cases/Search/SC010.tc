@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search with trailing spaces</description>
+   <name>SC010</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c7107ca6-fe6b-488b-9f43-56fc4b67798e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open the book from search results</description>
+   <name>SC016</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c0e29b5a-d547-4869-ba5b-b2dc6cac7746</testCaseGuid>
+</TestCaseEntity>

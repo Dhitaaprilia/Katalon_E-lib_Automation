@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search using lowercase characters</description>
+   <name>SC007</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dfe1f9e8-5927-4e02-940b-17cfc73c1627</testCaseGuid>
+</TestCaseEntity>
